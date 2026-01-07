@@ -2,8 +2,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=wave&color=0:0A0F33,100:1F4068&height=120&section=header&text=wayde&fontSize=30&fontColor=FFFFFF"
-    width="350"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=440&lines=Wayde;AI+%26+Frontend+Developer;Minimal+%7C+Geek"
   />
 </p>
 
