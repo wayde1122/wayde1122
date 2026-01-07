@@ -36,6 +36,7 @@
 ---
 
 ## 🧰 Tech Stack
+ - react  vue3  vite  ts  nextjs
 
 ### 🧠 Frontend & AI
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
