@@ -1,9 +1,13 @@
+<!-- wayde1122 profile -->
+
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=wave&color=0:0A0F33,100:1F4068&height=120&section=header&text=wayde1122&fontSize=40&fontColor=FFFFFF"
+    src="https://capsule-render.vercel.app/api?type=wave&color=0:0A0F33,100:1F4068&height=120&section=header&text=wayde&fontSize=30&fontColor=FFFFFF"
     width="350"
   />
 </p>
+
+
 
 ## 👋 Hi, I'm **Wayde**
 
@@ -43,17 +47,6 @@
 
 **AI / Backend**
 - Python · Node.js · Agent Workflow
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=wayde1122&show_icons=true&theme=transparent&hide_border=true"
-    height="150"
-  />
-</p>
 
 ---
 
