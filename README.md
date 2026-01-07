@@ -53,14 +53,20 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=wayde1122&show_icons=true&theme=transparent" />
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wayde1122&layout=compact&theme=transparent" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=wayde1122&show_icons=true&theme=transparent&hide_border=true"
+    height="150"
+  />
 </p>
 
 ---
 
 ## 🔥 Commit Streak
 
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=wayde1122&theme=transparent&hide_border=true" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=wayde1122&theme=transparent&hide_border=true"
+    height="150"
+  />
 </p>
