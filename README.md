@@ -13,7 +13,7 @@
 
 - 🌱 当前专注：**AI + 前端工程化应用开发**
 - 🧠 感兴趣领域：智能代理、自动化工具、前端架构
-- 📍 GitHub：<a href="https://github.com/wayde1122">github.com/wayde1122</a> :contentReference[oaicite:1]{index=1}
+- 📍 GitHub：<a href="https://github.com/wayde1122">github.com/wayde1122</a>
 
 ---
 
