@@ -25,7 +25,7 @@
 
 ## 📦 Featured Projects
 
-- 🚀 **chat_box_code** — AI 聊天组件示例（TypeScript）  
+- 🚀 **chat_box_code** — AI 工具合集（TypeScript）  
   https://github.com/wayde1122/chat_box_code
 
 - 🤖 **first-agent** — JavaScript Agent Demo  
