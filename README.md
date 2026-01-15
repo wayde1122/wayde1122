@@ -8,56 +8,54 @@
 
 
 
-## 👋 Hi, I'm **Wayde**
+## Hi, I'm Wayde 👋
 
-极简 · AI & 前端 开发者 🚀  
-探索智能前端、代理与自主 Agent 的边界 ✨
-
----
-
-## 💡 About Me
-
-- 🌱 当前专注：**AI + 前端工程化应用开发**
-- 🧠 感兴趣领域：智能代理、自动化工具、前端架构
-- 📍 GitHub：https://github.com/wayde1122
+AI · Agent · Frontend Engineering  
+Building practical tools and experimental agents.
 
 ---
 
-## 📦 Featured Projects
+### 🧠 Focus
 
-- 🚀 **chat_box_code** — AI 工具助手合集（TypeScript）  
-  https://github.com/wayde1122/chat_box_code
+- AI Agent & Agent Engineering
+- Frontend Engineering
+- Developer Tools & Automation
 
-- 🤖 **first-agent** — JavaScript Agent Demo  
-  https://github.com/wayde1122/first-agent
+Tech Stack:  
+**TypeScript / JavaScript / Python / Vue / Node.js**
 
-- 🧠 **w-agent** — typescript Agent 框架实现(rga 向量）</br>
+---
+
+### 🚀 Repositories
+
+- **w-agent**  
+  Agent 结构与工程化实践（TypeScript）  
   https://github.com/wayde1122/w-agent
 
-- 🔄 **fork-openmanus** — Fork & 二次修改项目（Python）  
+- **chat_box_code**  
+  AI / 对话 / 工具相关实验代码  
+  https://github.com/wayde1122/chat_box_code
+
+- **vue-dev-template**  
+  Vue 前端开发模板，强调工程化与规范  
+  https://github.com/wayde1122/vue-dev-template
+
+- **fork-openmanus**  
+  OpenManus 项目 Fork 与研究（Python）  
   https://github.com/wayde1122/fork-openmanus
 
 ---
 
-## 🧰 Tech Stack
+### ✨ Philosophy
 
-**Frontend**
-- React · Vue 3 · Vite · TypeScript · Next.js
-
-**AI / Backend**
-- Python · Node.js · Agent Workflow
+> Less demo, more structure  
+> Less magic, more runnable code
 
 ---
 
-## 🔥 Commit Streak
+### 📫 Links
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=wayde1122&theme=transparent&hide_border=true"
-    height="150"
-  />
-</p>
+- GitHub: https://github.com/wayde1122
 
----
 
 > *Keep it minimal. Keep it smart.* ⚡
