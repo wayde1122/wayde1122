@@ -31,7 +31,7 @@
 - 🤖 **first-agent** — JavaScript Agent Demo  
   https://github.com/wayde1122/first-agent
 
-- 🧠 **w-agent** — typescript Agent 框架实现(rga 向量）
+- 🧠 **w-agent** — typescript Agent 框架实现(rga 向量）</br>
   https://github.com/wayde1122/w-agent
 
 - 🔄 **fork-openmanus** — Fork & 二次修改项目（Python）  
