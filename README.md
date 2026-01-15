@@ -25,13 +25,13 @@
 
 ## 📦 Featured Projects
 
-- 🚀 **chat_box_code** — AI 工具合集（TypeScript）  
+- 🚀 **chat_box_code** — AI 工具助手合集（TypeScript）  
   https://github.com/wayde1122/chat_box_code
 
 - 🤖 **first-agent** — JavaScript Agent Demo  
   https://github.com/wayde1122/first-agent
 
-- 🧠 **w-agent** — Python Agent 核心示例  
+- 🧠 **w-agent** — typescript Agent 框架实现(rga 向量）
   https://github.com/wayde1122/w-agent
 
 - 🔄 **fork-openmanus** — Fork & 二次修改项目（Python）  
